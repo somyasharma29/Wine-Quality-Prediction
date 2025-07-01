@@ -47,5 +47,4 @@ The classification task helps identify the quality of wine on a scale (typically
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/wine-quality-prediction.git
-   cd wine-quality-prediction
+   git clone https://github.com/somyasharma29/Wine-Quality-Prediction.git
