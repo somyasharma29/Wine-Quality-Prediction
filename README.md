@@ -1,12 +1,12 @@
-# 🍷 Wine Quality Prediction
+# Wine Quality Prediction
 
 A course project developed under the guidance of **Prof. Abir De**  
-📍 *Department of Computer Science & Engineering, IIT Bombay*  
-🗓️ *Duration: Feb 2022 – Mar 2022*
+*Department of Computer Science & Engineering, IIT Bombay*  
+*Duration: Feb 2022 – Mar 2022*
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to predict the quality of red wine based on various physicochemical properties using supervised machine learning models. The red wine dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
 
@@ -14,7 +14,7 @@ The classification task helps identify the quality of wine on a scale (typically
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 - **Random Forest Classifier**
 - **Stochastic Gradient Descent (SGD) Classifier**
@@ -22,7 +22,7 @@ The classification task helps identify the quality of wine on a scale (typically
 
 ---
 
-## 🛠️ Key Features & Techniques
+## Key Features & Techniques
 
 - Implemented multiple classifiers and compared their performance.
 - Utilized **GridSearchCV** to optimize SVM hyperparameters.
@@ -34,7 +34,7 @@ The classification task helps identify the quality of wine on a scale (typically
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Name**: Red Wine Quality Dataset
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
